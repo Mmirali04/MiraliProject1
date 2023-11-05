@@ -1,0 +1,11 @@
+.hero{
+    background-image: url(../assets/hero.svg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+li{
+    list-style-type: none;
+}

@@ -1,0 +1,41 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "name": "Mirali",
+      "job": "krchamu",
+      "complited": false,
+      "email": "mastivekov@gamil.com"
+    },
+    {
+      "id": 1692795263517,
+      "name": "fdskmf",
+      "complited": true
+    },
+    {
+      "id": 1692795264602,
+      "name": "fdskmf",
+      "complited": false
+    },
+    {
+      "id": 1692795264860,
+      "name": "fdskmf",
+      "complited": false
+    },
+    {
+      "id": 1692795265044,
+      "name": "fdskmf",
+      "complited": true
+    },
+    {
+      "id": 1692795273094,
+      "name": "dsf",
+      "complited": false
+    },
+    {
+      "id": 1692795273562,
+      "name": "dsf",
+      "complited": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+    "section1" : {
+       "company" : "Our company",
+       "team" : "Debuilds is a team of architects, interior design, and contractors who help our clients not only to build their dream building, but also to feel comfortable after the building is used.",
+       "servise" : "Our Servise",
+       "our" : "Our services include building new buildings and renovating old buildings",
+       "card1" : "Design building/house",
+       "text1" : "We have an architect for design new buildings",
+       "card2" : "Interior Design" ,
+       "text2" : "We have an interior designer for design your perfect inside house",
+       "card3" : "Build from scratch",
+       "text3" : "We have an contractor for build new building from scratch" ,
+        "card4" : "Renovation",
+        "text4" : "We can also renovate or rebuilds new buildings/house",
+        "flex" : "Flexible time",
+        "flex2" : "We work wherever you ready to builds. Work fast and profesiona",
+        "contm" : "Customizable design",
+        "contm2" : "We can design your buildings, but we open if you want to customize your design or if you have architect",
+        "price" : "Negotiable price",
+        "price2" : "Yes, we’re open to negotiate the price with you, and we will give the best price for our lovely clients",
+        "benif" : "Our benefits",
+        "benif2" : "Here our benefits if you collaboration with our team",
+        "what" : "What our clients say?" ,
+        "see" : "See what our clients say about their new home",
+        "roberto" : "I really happy to see the result my new home. It’s really good house and good price too. And they work so fast becasue they have the best team. Once again, thankyou. I really appreciate it.",
+        "want" : "Want to get our offer updates and news?",
+        "submit" : "Submit your e-mail and we will give you update about information and discount. Every single week. (not spamming)"
+    }
+    
+
+
+}
